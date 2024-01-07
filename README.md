@@ -46,7 +46,7 @@ This project implements a collaborative filtering-based recommender system for s
 
 ## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests for improvements, bug fixes, or new features. Please follow our [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! Feel free to open issues or submit pull requests for improvements, bug fixes, or new features.
 
 ## License
 
